@@ -109,4 +109,4 @@ async function main(file, url) {
   }
 }
 
-main("crypto.txt", "https://crypto.news/");
+main("data.txt", "https://crypto.news/");
